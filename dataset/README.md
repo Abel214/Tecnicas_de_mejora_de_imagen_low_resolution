@@ -67,27 +67,26 @@ Al ser un dataset de imágenes, no cuenta con columnas tabulares. Las variables 
 
 ## Ejemplos de imágenes
 
-Reemplaza cada `URL_IMAGEN_...` por la dirección de la imagen correspondiente (por ejemplo, el enlace "raw" de GitHub o una imagen subida al repositorio).
 
 ### Dataset limpio
 
 | ORL_Limpio |
 |:---:|
-| <img src="URL_IMAGEN_ORL_LIMPIO" width="120" alt="Imagen original del sujeto s1"> |
+| <img src="https://i.postimg.cc/pVq5Bf0Y/1.jpg" width="120" alt="Imagen original del sujeto s1"> |
 
 ### Imágenes degradadas
 
 | Escala x2 | Escala x4 |
 |:---:|:---:|
-| <img src="URL_IMAGEN_ESCALA_X2" width="120" alt="Imagen degradada x2"> | <img src="URL_IMAGEN_ESCALA_X4" width="120" alt="Imagen degradada x4"> |
+| <img src="https://i.postimg.cc/8PcJX79s/1.png" width="120" alt="Imagen degradada x2"> | <img src="https://i.postimg.cc/KvWK6Zh7/3.png" width="120" alt="Imagen degradada x4"> |
 
 ### Imágenes mejoradas
 
 | Técnica | Escala x2 | Escala x4 |
 |---|:---:|:---:|
-| CLAHE | <img src="URL_IMAGEN_CLAHE_X2" width="120" alt="CLAHE x2"> | <img src="URL_IMAGEN_CLAHE_X4" width="120" alt="CLAHE x4"> |
-| Super Resolution | <img src="URL_IMAGEN_SR_X2" width="120" alt="Super Resolution x2"> | <img src="URL_IMAGEN_SR_X4" width="120" alt="Super Resolution x4"> |
-| Lite-ESRGAN | <img src="URL_IMAGEN_LITEESRGAN_X2" width="120" alt="Lite-ESRGAN x2"> | <img src="URL_IMAGEN_LITEESRGAN_X4" width="120" alt="Lite-ESRGAN x4"> |
+| CLAHE | <img src="https://i.postimg.cc/zGRL59J1/2.png" width="120" alt="CLAHE x2"> | <img src="https://i.postimg.cc/3w5kwnRx/2.png" width="120" alt="CLAHE x4"> |
+| Super Resolution | <img src="https://i.postimg.cc/25QVLhbB/6.png" width="120" alt="Super Resolution x2"> | <img src="https://i.postimg.cc/xC9qv8MB/6.png" width="120" alt="Super Resolution x4"> |
+| Lite-ESRGAN | <img src="https://i.postimg.cc/B6NbM3C8/8.png" width="120" alt="Lite-ESRGAN x2"> | <img src="https://i.postimg.cc/2yK6NxMN/8.png" width="120" alt="Lite-ESRGAN x4"> |
 
 ---
 
@@ -111,8 +110,4 @@ Reemplaza cada `URL_IMAGEN_...` por la dirección de la imagen correspondiente (
 
 The ORL Database of Faces: [Kaggle, The ORL database for training and testing](https://www.kaggle.com/datasets/tavarez/the-orl-database-for-training-and-testing)
 
----
 
-## Autor
-
-Abel Alejandro Mora López, Universidad Nacional de Loja, Carrera de Computación.
